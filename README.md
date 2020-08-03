@@ -1,6 +1,6 @@
 # Algorithms Illuminated - Part 3
  This is the implementation of 3rd Part in 3-Part Series of Algorithms Illuminated Book. All Implementations in this repository are written in both Python and Golang. Single IPython Notebook contains all Algorithms given in this Part 3.
-## Topics Covered
+## Topics Covered:
 1. Scheduling Problem using Greedy Programming
 2. Huffman Algorithm for finding Prefix-free binary codes using Heaps
 3. Prim's Algorithm for finding Minimum Spanning Tree
