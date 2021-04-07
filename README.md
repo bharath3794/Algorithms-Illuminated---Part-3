@@ -18,3 +18,10 @@
 14. Optimal Binary Search Tree Implementation using Dynamic Programming (Includes Reconstruction)
 15. Bellman-Ford Algorithm for finding Shortest-Path of Graphs with Negative edge weights
 16. Floyd-Warshall Algorithm for finding All-Pairs Shortest Paths
+
+## Requirements:
+Tested on
+```
+python v3.7
+go v1.14
+```
